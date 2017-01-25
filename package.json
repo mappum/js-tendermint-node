@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "old": "^0.2.0",
+    "tendermint": "^1.2.0"
+  }
+}
