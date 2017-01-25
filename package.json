@@ -2,5 +2,15 @@
   "dependencies": {
     "old": "^0.2.0",
     "tendermint": "^1.2.0"
-  }
+  },
+  "name": "tendermint-node",
+  "version": "0.8.0",
+  "description": "Spawn a tendermint node",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Bell <mappum@gmail.com>",
+  "license": "MIT"
 }
